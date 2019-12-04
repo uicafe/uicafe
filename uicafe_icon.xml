@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>UI Cafe. ICONs</title>
+    <title>UICafe ICONs</title>
     <description>ICONs - GOOD UI USE UICAFE.</description>
     <link>...</link>
     <image>
         <url>Library_Preview_ICONs.png</url>
-        <title>UI Cafe. ICONs</title>
+        <title>UICafe ICONs</title>
         <link>...</link>
     </image>
     <generator>Sketch</generator>
     <lastBuildDate>[UTC Time]</lastBuildDate>
     <language>en</language>
     <item>
-      <title>UI Cafe. ICONs</title>
+      <title>UICafe ICONs</title>
       <pubDate>[UTC Time]</pubDate>
       <enclosure url="https://uicafe.github.io/uicafe/UICafe_ICONs.sketch" sparkle:version="[V1.0.10]" length="..." type="application/octet-stream" />
     </item>
